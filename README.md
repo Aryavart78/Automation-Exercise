@@ -1,2 +1,2 @@
 # Automation-Exercise
-This project is an end-to-end test automation framework developed for an e-commerce application. It covers both UI and API testing using Selenium WebDriver, TestNG, and Rest Assured.
+This project focuses on testing a real-world e-commerce web application: Automation Exercise. The objective is to validate the functionality, usability, and reliability of key user workflows using both manual and automation testing techniques.
